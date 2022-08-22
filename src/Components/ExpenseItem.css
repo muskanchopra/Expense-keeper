@@ -1,0 +1,35 @@
+.Item{
+    background-color: rgb(67, 67, 88);
+    padding: 5px;
+    border-radius: 8%;
+    margin: 20px;
+}
+.Item-description{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: aliceblue;
+}
+.Item-price{
+    background-color: rgb(15, 10, 46);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px ;
+    padding-top: 60px;
+    /* margin-top: 5px; */
+    border-radius: 10%;
+    font-size: 110%;
+    border: 1px solid rgb(228, 214, 214);
+}
+.Item-name{
+    font-size: 200%;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.Item-date{
+    color: black;
+    font-size: 150%;
+    padding: 20px;
+    font-weight: bolder;
+}

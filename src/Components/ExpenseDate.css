@@ -1,0 +1,8 @@
+.main-date{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color:  rgb(6, 32, 6);
+    color: whitesmoke;
+    border: 3px solid whitesmoke;
+}
